@@ -1,3 +1,5 @@
+package PrimeirosExerciciosJava;
+
 import java.util.Objects;
 import java.util.Scanner;
 

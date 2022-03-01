@@ -1,3 +1,5 @@
+package PrimeirosExerciciosJava;
+
 import java.io.IOException;
 import java.util.Scanner;
 public class DesafioDioStart004 {

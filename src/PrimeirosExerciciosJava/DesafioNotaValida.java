@@ -1,3 +1,5 @@
+package PrimeirosExerciciosJava;
+
 import javax.swing.*;
 import java.util.Scanner;
 

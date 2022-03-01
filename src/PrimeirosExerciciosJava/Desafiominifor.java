@@ -1,3 +1,5 @@
+package PrimeirosExerciciosJava;
+
 public class Desafiominifor {
     public static void main(String[] args) {
 

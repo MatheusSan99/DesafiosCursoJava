@@ -1,3 +1,5 @@
+package PrimeirosExerciciosJava;
+
 import java.util.Scanner;
 
 public class ExercicioFinalizacaoFundamentos004 {

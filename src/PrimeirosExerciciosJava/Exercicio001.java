@@ -1,3 +1,5 @@
+package PrimeirosExerciciosJava;
+
 public class Exercicio001 {
 
     //Organizar e quebrar o código
